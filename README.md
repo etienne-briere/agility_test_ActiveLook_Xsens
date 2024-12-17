@@ -13,7 +13,7 @@ $ conda activate agility_test
 **Pour en savoir plus :** https://base.movella.com/s/article/Movella-DOT-PC-SDK-Guide?language=en_US.
 
 ## Installation de Spyder (facultatif)
-Le script développé a été lancé depuis Spyder, d'autres environnements de développement tels que Visual Code devrait fonctionner également. 
+Le script développé a été lancé depuis Spyder, d'autres environnements de développement tels que Visual Code devraient fonctionner également. 
 Spyder a été installé via conda qui semble mieux gérer les dépendances que pip. 
 ```bash
 $ conda install spyder
@@ -36,7 +36,7 @@ $ pip install heatshrink2
 Deux solutions d'installation :
 1. Suivre les étapes d'installation sur le site officiel : https://base.movella.com/s/article/Movella-DOT-PC-SDK-Guide?language=en_US
 2. Dossier `Movella`: comprend déjà le SDK Movella Dot à installer avec l'ensemble de la documentation (.html)
-   - Ouvrir le cmd
+   - Ouvrez le cmd (ou PowerShell)
    - Activer l'environnement `agility_test`
    - Déplacez-vous dans le dossier `\Movella\DOT PC SDK <version>\SDK Files\Python\x64` :
      ```bash
