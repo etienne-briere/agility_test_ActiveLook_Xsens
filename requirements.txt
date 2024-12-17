@@ -1,0 +1,13 @@
+numpy>=1.20.3
+pynput==1.7.3
+pyserial>=3.5
+opencv-python>=4.5.5
+bleak>=0.15.0
+nest_asyncio>=1.5.4
+imageio>=2.9.0
+colormath>=3.0.0
+heatshrink2>=0.10.0
+pyqt5>=5.15.7
+pyqt5-tools>=5.15.4.3.2
+pyqtgraph>=0.12.4
+
